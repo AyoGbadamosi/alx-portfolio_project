@@ -13,7 +13,9 @@ form.addEventListener('submit', (e) => {
             input.parentElement.classList.remove('error');
         }
     })
-
+//form.click(function(){
+    //alert("We would get back to you as soon as possible");
+    //})
 
     e.preventDefault();
 })

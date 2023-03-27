@@ -14,7 +14,7 @@
         min-height: 130vh;
         display: grid;
         place-items: center;
-        background-image: url(./Registration-form/images/bg-intro-mobile.png);
+        background-image: url(./Registration-form/images/bg-Education.jpg);
         background-color: #fa5b3d;
         color: #fff;
     }
@@ -54,10 +54,8 @@
         line-height: 3rem;
         margin-bottom: 15px;
     }
-    
     .container .left-column p {
         text-align: center;
-        color: hsl(246, 25%, 77%);
         font-size: 1.1rem;
         line-height: 1.9rem;
     }
@@ -67,7 +65,7 @@
     }
     
     .container .right-column h3 {
-        background: hsl(248, 32%, 49%);
+        background:hsl(169, 100%, 38%);
         border-radius: 15px;
         padding: 1rem 3rem;
         margin-bottom: 1rem;
@@ -104,7 +102,7 @@
     
     button {
         width: 100%;
-        background: hsl(154, 59%, 51%);
+        background: hsl(169, 100%, 38%);
         color: #fff;
         border-radius: 8px;
         padding: 1rem;
@@ -156,7 +154,7 @@
             grid-template-columns: 1fr 1fr;
             grid-gap: 1rem;
             padding: 5rem;
-            background-image: url('./Registration-form/images/bg-intro-desktop.png');
+            background-image: url('./Registration-form/images/bg-Education.jpg');
         }
         .container .left-column {
             margin-bottom: 0;
