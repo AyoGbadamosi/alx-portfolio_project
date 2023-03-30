@@ -64,14 +64,6 @@
         text-align: center;
     }
     
-    .container .right-column h3 {
-        background:hsl(169, 100%, 38%);
-        border-radius: 15px;
-        padding: 1rem 3rem;
-        margin-bottom: 1rem;
-        box-shadow: 2px 2px 2px 1px hsl(249, 10%, 26%, 0.404);
-        line-height: 2.2rem;
-    }
     
     .form-container {
         background-color: #fff;
