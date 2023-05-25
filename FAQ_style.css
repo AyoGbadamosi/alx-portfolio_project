@@ -31,3 +31,12 @@ a{
 a:hover{
     color: green;
 }
+.faqs{
+    margin: auto;
+    border-style: solid; 
+    list-style-position: inside;
+    width: 800px;
+}
+.faqs p {
+   padding-left: 1.4em; 
+}
